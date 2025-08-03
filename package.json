@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "obaol-documentation",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Obaol Supreme overview about vision, values and the problems we are solving",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
